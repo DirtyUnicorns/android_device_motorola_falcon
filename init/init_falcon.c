@@ -103,6 +103,7 @@ void init_msm_properties(unsigned long msm_id, unsigned long msm_ver, char *boar
             property_set("ro.product.model", "Moto G");
             property_set("ro.build.description", "falcon_boost-user 4.4.2 KXB20.9-1.10-1.18 18 release-keys");
             property_set("ro.build.fingerprint", "motorola/falcon_boost/falcon_cdma:4.4.2/KXB20.9-1.10-1.18/18:user/release-keys");
+            property_set("ro.cdma.home.operator.alpha", "Boost Mobile");
             property_set("ro.cdma.home.operator.numeric", "311870");
             property_set("persist.radio.multisim.config", "");
             property_set("ro.mot.build.customerid", "sprint");
