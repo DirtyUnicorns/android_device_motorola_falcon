@@ -107,6 +107,7 @@ void init_msm_properties(unsigned long msm_id, unsigned long msm_ver, char *boar
             property_set("ro.cdma.home.operator.numeric", "311870");
             property_set("persist.radio.multisim.config", "");
             property_set("ro.mot.build.customerid", "sprint");
+            property_set("telephony.lteOnCdmaDevice", "1");
         }
         property_set("ro.telephony.default_network", "4");
         property_set("ro.telephony.gsm-routes-us-smsc", "1");
