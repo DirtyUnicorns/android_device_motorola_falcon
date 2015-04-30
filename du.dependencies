@@ -18,6 +18,11 @@
     "repository":   "DirtyUnicorns/android_vendor_motorola",
     "target_path":  "vendor/motorola",
     "branch":       "lollipop-caf"
+  },
+  {
+    "repository":   "android_hardware_qcom_fm",
+    "target_path":  "hardware/qcom/fm",
+    "branch":       "lollipop-caf"
   }
 
 ]
