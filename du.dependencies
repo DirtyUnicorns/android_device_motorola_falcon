@@ -1,26 +1,26 @@
 [
   {
-    "repository":   "DirtyUnicorns/android_device_motorola_msm8226-common",
+    "repository":   "android_device_motorola_msm8226-common",
     "target_path":  "device/motorola/msm8226-common",
     "branch":       "lollipop-caf"
   },
   {
-    "repository":   "DirtyUnicorns/android_device_qcom-common",
+    "repository":   "android_device_qcom-common",
     "target_path":  "device/qcom/common",
     "branch":       "lollipop-caf"
   },
   {
-    "repository":   "DirtyUnicorns/android_kernel_motorola_msm8226",
+    "repository":   "android_kernel_motorola_msm8226",
     "target_path":  "kernel/motorola/msm8226",
     "branch":       "lollipop-caf"
   },
   {
-    "repository":   "DirtyUnicorns/android_vendor_motorola",
+    "repository":   "android_vendor_motorola",
     "target_path":  "vendor/motorola",
     "branch":       "lollipop-caf"
   },
   {
-    "repository":   "DirtyUnicorns/android_hardware_qcom_fm",
+    "repository":   "android_hardware_qcom_fm",
     "target_path":  "hardware/qcom/fm",
     "branch":       "lollipop-caf"
   }
